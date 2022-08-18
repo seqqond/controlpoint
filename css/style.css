@@ -77,3 +77,27 @@ h1 {
 .img-a {
     margin-top: 20px;
 }
+.r1 {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+td {
+    height: 120px;
+    width: 20%;
+    border-left: 1px solid rgb(255, 255, 255);
+    border-right: 1px solid rgb(255, 255, 255);
+    text-align: center;
+}
+.cont {
+    background-color: rgb(95, 189, 158);
+    margin-top: 70px;
+}
+.span1 {
+    font-size: 12px;
+}
+@media (max-width: 576px) {
+    .contain {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
