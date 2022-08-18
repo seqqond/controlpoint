@@ -1,0 +1,59 @@
+nav {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: 900;
+}
+
+li {
+    margin-left: 50px;
+}
+
+.background {
+    background-image: url(../img/background.webp);
+}
+
+li:hover {
+    text-decoration: underline;
+    cursor: grab;
+}
+
+.nav-item a.nav-link:hover {
+    color: yellow;
+}
+
+.nav-item a.nav-link {
+    color: white;
+}
+
+.bi-cart3:hover,
+.bi-search:hover {
+    color: yellow;
+}
+h3 {
+    font-family: 'Kalam', cursive;
+    font-size: 40px;
+    padding-top: 80px;
+}
+h1 {
+    font-size: 60px;
+    letter-spacing: 4px;
+    font-weight: bold;
+    color: white;
+}
+.border {
+    border-bottom: 3px solid white;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.learn {
+    border-radius: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+}
+.learner {
+    padding-bottom: 70px;
+}
