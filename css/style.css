@@ -8,6 +8,7 @@ nav {
 
 li {
     margin-left: 50px;
+    height: 40px;
 }
 
 .background {
@@ -15,7 +16,7 @@ li {
 }
 
 li:hover {
-    text-decoration: underline;
+    border-bottom: 2px solid yellow;
     cursor: grab;
 }
 
@@ -56,4 +57,23 @@ h1 {
 }
 .learner {
     padding-bottom: 70px;
+}
+.text1 {
+    margin-top: 70px;
+    font-family: 'Kalam', cursive;;
+}
+.headers {
+    margin-top: -15px;
+}
+.border1 {
+    border-bottom: 3px solid rgb(255, 0, 0);
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img1 {
+    width: 100%;
+}
+.img-a {
+    margin-top: 20px;
 }
