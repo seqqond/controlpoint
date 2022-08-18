@@ -172,3 +172,16 @@ td {
 .img2:hover .overlay {
     opacity: 1;
 }
+.bi-alarm {
+    margin-top: 20px;
+}
+.r2-b .col-12 {
+    padding-top: 40px;
+}
+.r3 {
+    border-bottom: 2px solid gray;
+    padding-bottom: 40px;
+}
+.r1-a .col-12 {
+    padding-top: 40px;
+}
