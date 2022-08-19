@@ -246,3 +246,23 @@ td {
 .working {
     width: 100%;
 }
+.carousel-inner {
+    height: 300px;
+}
+.carousel-item {
+    height: 300px;
+    background-color: rgb(238, 238, 238);
+}
+.icon1 {
+    border: 2px green solid;
+    color: green;
+    padding: 20px;
+}
+.sp2 {
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+}
+.carousel {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
